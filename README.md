@@ -5,8 +5,6 @@ Dragon Repeller is a cute and kawaii role-playing game (RPG) that challenges pla
 
 ## Demo
 
-![screencapture-hadep275-github-io-dragon-repeller-2023-12-24-14_54_33](https://github.com/hadep275/dragon-repeller/assets/65734173/efc3cfda-ab07-4914-b02e-575281a124b7)
-
 Check out the live demo of  [Dragon Repeller:](https://hadep275.github.io/dragon-repeller/)
 
 ## Features
@@ -18,7 +16,7 @@ Check out the live demo of  [Dragon Repeller:](https://hadep275.github.io/dragon
 
 ## Screenshots
 
-![Screenshot 2](link_to_screenshot_2)
+![screencapture-hadep275-github-io-dragon-repeller-2023-12-24-14_54_33](https://github.com/hadep275/dragon-repeller/assets/65734173/efc3cfda-ab07-4914-b02e-575281a124b7)
 
 ## Getting Started
 
