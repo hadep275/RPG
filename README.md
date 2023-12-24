@@ -23,7 +23,7 @@ Check out the live demo of  [Dragon Repeller:](https://hadep275.github.io/dragon
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/dragon-repeller.git
+   git clone https://github.com/hadep275/dragon-repeller.git
    ```
 
 2. Open the `index.html` file in your browser to start playing.
