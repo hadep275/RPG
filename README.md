@@ -1,10 +1,11 @@
 # Dragon Repeller - Kawaii RPG Game
 
-![Game Screenshot](link_to_screenshot_image)
 
 Dragon Repeller is a cute and kawaii role-playing game (RPG) that challenges players to defeat a menacing dragon and save the town. This game is designed with a gamified and visually appealing user interface, featuring vibrant colors, animations, and playful elements.
 
 ## Demo
+
+![screencapture-hadep275-github-io-dragon-repeller-2023-12-24-14_54_33](https://github.com/hadep275/dragon-repeller/assets/65734173/efc3cfda-ab07-4914-b02e-575281a124b7)
 
 Check out the live demo of  [Dragon Repeller:](https://hadep275.github.io/dragon-repeller/)
 
@@ -17,7 +18,6 @@ Check out the live demo of  [Dragon Repeller:](https://hadep275.github.io/dragon
 
 ## Screenshots
 
-![Screenshot 1](link_to_screenshot_1)
 ![Screenshot 2](link_to_screenshot_2)
 
 ## Getting Started
